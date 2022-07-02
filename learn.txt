@@ -3,3 +3,8 @@ npx react-native start
 
 iOS:
 yarn react-native run-ios
+
+Git Token:
+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
+
+git remote set-url origin https://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@github.com/Zafeer/paddycash.git
