@@ -1,0 +1,5 @@
+To Start Metro:
+npx react-native start
+
+iOS:
+yarn react-native run-ios
